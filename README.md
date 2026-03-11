@@ -1,4 +1,3 @@
 https://bankapp-ekirupnwvycjj2gjqxxjbi.streamlit.app/
 
-
-Information about Application
+Click the above link to open the application
